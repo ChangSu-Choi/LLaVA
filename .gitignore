@@ -37,7 +37,7 @@ ckpts*
 # Demo
 serve_images/
 
-
+evalai/*
 .kotmul
 .venv
 evalai/*
