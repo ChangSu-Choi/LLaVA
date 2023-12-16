@@ -9,6 +9,9 @@ dist
 *.log.*
 *.json
 *.jsonl
+*.jpg
+*.png
+*.jpeg
 
 # Data
 !**/alpaca-data-conversation.json
@@ -33,3 +36,9 @@ ckpts*
 
 # Demo
 serve_images/
+
+
+.kotmul
+.venv
+evalai/*
+ihwon/*
